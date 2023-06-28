@@ -1,3 +1,4 @@
+## Erro no x11-common
 ```
 dpkg: unrecoverable fatal error, aborting:
 files list file for package 'x11-common' contains empty filename
